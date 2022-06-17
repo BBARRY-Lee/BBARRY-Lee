@@ -1,4 +1,5 @@
 ### 안녕하세요, 빼리냐옹이 Github 입니다 :) 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20everyone&fontSize=90)
 
 <!--
 **BBARRY-Lee/BBARRY-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
