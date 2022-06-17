@@ -1,4 +1,4 @@
-### 안녕하세요, 빼리냐옹이의 Github 입니다 :) 👋
+### 안녕하세요, 빼리냐옹이 Github 입니다 :) 👋
 
 <!--
 **BBARRY-Lee/BBARRY-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
