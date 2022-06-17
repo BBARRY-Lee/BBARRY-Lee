@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={BBARRY-Lee}&show_icons=true&theme={theme})](https://github.com/{BBARRY-Lee}/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leejy1373@gmail.com})](https://solved.ac/{leejy1373@gmail.com})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leejy1373@gmail.com})](https://solved.ac/{leejy1373@gmail.com})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={leejy1373@gmail.com})](https://solved.ac/{leejy1373@gmail.com})
