@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요, 빼리냐옹이의 Github 입니다 :) 👋
 
 <!--
 **BBARRY-Lee/BBARRY-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={BBARRY-Lee}&show_icons=true&theme={theme})](https://github.com/{BBARRY-Lee}/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leejy1373})](https://solved.ac/{userid})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leejy1373})](https://solved.ac/{userid})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={leejy1373})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={leejy1373})](https://solved.ac/{leejy1373})
