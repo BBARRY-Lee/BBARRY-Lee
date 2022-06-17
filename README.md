@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={BBARRY-Lee}&show_icons=true&theme={theme})](https://github.com/{BBARRY-Lee}/github-readme-stats)
+![Daisy Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBARRY-Lee&show_icons=true&theme=radical)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leejy1373@gmail.com})](https://solved.ac/{leejy1373@gmail.com})
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leejy1373@gmail.com})](https://solved.ac/{leejy1373@gmail.com})
