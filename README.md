@@ -7,7 +7,7 @@
 
 
 ---
-# Naver Boost camp AI tech 4th
+# [Naver Boost camp AI tech 4th](https://github.com/BBARRY-Lee/Naver-Boost-camp-AI-tech-4th-)
 
 ## 네이버 부스트캠프 AI Tech 4기를 준비하고 있습니다.
 ## 현재 업로드한 것은 부스트캠프 프리코스 강의 기반으로 실습해본 것입니다.
