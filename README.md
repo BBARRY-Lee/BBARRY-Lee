@@ -5,6 +5,8 @@
 ![Daisy Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBARRY-Lee&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejy1373)](https://solved.ac/leejy1373/)
 
+
+---
 # Naver Boost camp AI tech 4th
 
 ## 네이버 부스트캠프 AI Tech 4기를 준비하고 있습니다.
