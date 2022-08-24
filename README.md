@@ -8,8 +8,6 @@
 ## 개인 기술블로그 입니다 :) 👉 [Daisy's Velog](https://velog.io/@leejy1373/series)
  
 
-## 네이버 부스트캠프 AI Tech 4기 준비 👉 [Naver Boost camp AI tech 4th](https://github.com/BBARRY-Lee/Naver-Boost-camp-AI-tech-4th-)
 ### 해당 repository에 현재 업로드한 것은 Pre-Course 강의 기반으로 실습해본 것입니다.
-### 최종 합격하게 되면, 부스트캠프에서 공부한 내용을 업로드할 예정입니다.
-### 부디 22년 하반기에 해당 repository와 기술블로그를 꼭 가득 채우고 싶습니다.
+### 부디 22년 하반기에 해당 repository와 기술블로그를 가득 채우고 싶습니다.
 
