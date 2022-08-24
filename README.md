@@ -6,8 +6,5 @@
 ![Daisy Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBARRY-Lee&show_icons=true&theme=radical)
 ---
 ## 개인 기술블로그 입니다 :) 👉 [Daisy's Velog](https://velog.io/@leejy1373/series)
- 
-
-### 해당 repository에 현재 업로드한 것은 Pre-Course 강의 기반으로 실습해본 것입니다.
 ### 부디 22년 하반기에 해당 repository와 기술블로그를 가득 채우고 싶습니다.
 
