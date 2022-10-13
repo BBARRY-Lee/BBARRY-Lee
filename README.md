@@ -11,14 +11,14 @@ I'm studying because interested in Artificial intelligence, Machine learning, an
 <br>
 I'm not good enough, but this moment of studying is really happy and interesting!
 <br>
-<br>
 I want to help the world, so I'll do my best.
-<br><br>
+<br>
+<br>
 
 </div>
 <div align = "center">
 
-# 🫧 Skills
+# 🫧 Stacks
 <br><br>![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python)
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -53,7 +53,16 @@ I want to help the world, so I'll do my best.
 <br>
 <br>
 <div align = "center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBARRY-Lee&count_bg=%23356DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBARRY-Lee&count_bg=%23356DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br><br>
+
+---
+
+💁🏻‍♀️ If you want to contact me, please click the icons.<br>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-meow.tistory.com/)](https://bbarry-meow.tistory.com/)
+<br><br>
+
 </div>
 
 
