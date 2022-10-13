@@ -21,6 +21,7 @@ I want to help the world, so I'll do my best.
 # 🫧 Stacks
 <br><br>![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python)
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 <br>
