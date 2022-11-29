@@ -62,7 +62,10 @@ I want to help the world, so I'll do my best.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-meow.tistory.com/)](https://bbarry-meow.tistory.com/)
-<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/](https://www.linkedin.com/in/jiyun-lee-b4136424b/
+  
+  
+  <br><br>
 
 </div>
 
