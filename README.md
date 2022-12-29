@@ -32,6 +32,8 @@ I want to help the world, so I'll do my best.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) <br/>
 <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBARRY-Lee&layout=compact&theme=dark)
+<br><br>
   
 # 💻 Environment
 <br><br><img alt="macOS" src ="https://img.shields.io/badge/macOS-000000.svg?&style=flat-square&logo=macOS&logoColor=white"/><br>
