@@ -7,11 +7,11 @@ Hello, World!
 Thanks for visiting my GitHub :)
 <br>
 <br>
-I'm studying because interested in Artificial intelligence, Machine learning, and Deep learning.
+I'm studying artificial intelligence, machine learning, and deep learning.<br>
+My goal is to be an AI expert who pursues technology for a better world and life.<br>
 <br>
-I'm not good enough, but this moment of studying is really happy and interesting!
-<br>
-I want to help the world, so I'll do my best.
+I dream of an AI engineer who can help in various fields,<br>
+such as AI that helps creators and experts, and AI that helps people in need.<br>
 <br>
 <br>
 
@@ -63,7 +63,7 @@ I want to help the world, so I'll do my best.
 💁🏻‍♀️ If you want to contact me, please click the icons.<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-meow.tistory.com/)](https://bbarry-meow.tistory.com/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
 <br><br>
 
