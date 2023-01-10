@@ -1,9 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:00ff00&height=125&section=header&text=Jiyun's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
 
 <div align = "center">
+💁🏻‍♀️ If you want to contact me, please click the icons.<br><br>
 
-  
-# 🐣 About Me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
+[![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
+<br><br>
+
+---
+
 <br>
 Hello, World!
 <br>
@@ -59,16 +65,9 @@ such as AI that helps creators and experts, and AI that helps people in need.<br
 <br>
 <br>
 <div align = "center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBARRY-Lee&count_bg=%23356DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br><br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBBARRY-Lee&count_bg=%23356DB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a><br><br>
 
 ---
-
-💁🏻‍♀️ If you want to contact me, please click the icons.<br>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
-<br><br>
 
 </div>
 
