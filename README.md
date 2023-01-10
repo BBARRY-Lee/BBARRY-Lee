@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e3f400,100:00ff00&height=125&section=header&text=Jiyun's%20Workspace&fontSize=50&fontAlign=50&fontColor=FFFFFF)
 
 <div align = "center">
-💁🏻‍♀️ If you want to contact me, please click the icons.<br><br>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
-[![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
-<br><br>
-
----
 
 <br>
 Hello, World!
@@ -23,6 +15,15 @@ I dream of an AI engineer who can help in various fields,<br>
 such as AI that helps creators and experts, and AI that helps people in need.<br>
 <br>
 <br>
+  
+💁🏻‍♀️ If you want to contact me, please click the icons.<br><br>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
+[![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
+<br><br>
+
+---
 
 </div>
 <div align = "center">
