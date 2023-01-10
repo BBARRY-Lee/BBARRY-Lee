@@ -2,7 +2,6 @@
 
 <div align = "center">
 
-<br>
 Hello, World!
 <br>
 Thanks for visiting my GitHub :)
