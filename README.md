@@ -9,9 +9,7 @@ Thanks for visiting my GitHub :)
 <br>
 I'm studying artificial intelligence, machine learning, and deep learning.<br>
 My goal is to be an AI expert who pursues technology for a better world and life.<br>
-<br>
-I dream of an AI engineer who can help in various fields,<br>
-such as AI that helps creators and experts, and AI that helps people in need.<br>
+
 <br>
 <br>
   
