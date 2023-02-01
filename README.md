@@ -8,7 +8,7 @@ Thanks for visiting my GitHub :)
 <br>
 <br>
 I'm studying artificial intelligence, machine learning, and deep learning.<br>
-My goal is to be an AI expert who pursues technology for a better world and life.<br>
+My goal is to be an expert who pursues technology for a better world and life.<br>
 
 <br>
 <br>
