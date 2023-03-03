@@ -16,7 +16,7 @@ My goal is to be an expert who pursues technology for a better world and life.<b
 💁🏻‍♀️ If you want to contact me, please click the icons.<br><br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bbarry.official@gmail.com)](mailto:bbarry.official@gmail.com)
-[![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io/about/)
+[![GitHub Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&link=https://bbarry-lee.github.io/about/)](https://bbarry-lee.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyun-lee-b4136424b/)](https://www.linkedin.com/in/jiyun-lee-b4136424b/)
 <br><br>
 
