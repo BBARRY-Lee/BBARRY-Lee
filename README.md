@@ -23,8 +23,6 @@ My goal is to be an expert who pursues technology for a better world and life.<b
 
 </div>
 <div align = "center">
-
-# 🫧 Stacks
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBARRY-Lee&layout=compact&theme=dark)
 <br><br>
 
