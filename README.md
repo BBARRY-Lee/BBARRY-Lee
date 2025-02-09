@@ -25,19 +25,6 @@ My goal is to be an expert who pursues technology for a better world and life.<b
 <div align = "center">
 
 # 🫧 Stacks
-<br><br>![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python)
-<img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-<br>
-![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask)
-<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white"/>
-<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) <br/>
-<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBARRY-Lee&layout=compact&theme=dark)
 <br><br>
 
